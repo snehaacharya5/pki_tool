@@ -1,4 +1,3 @@
-# pki_tool.py
 """Simple PKI simulator for CI/CD demo."""
 
 def generate_keys():
@@ -8,3 +7,4 @@ def generate_keys():
 
 if __name__ == "__main__":
     generate_keys()
+
